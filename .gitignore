@@ -1,0 +1,9 @@
+__pycache__/
+CatsAndDogs/
+Eval/
+GSDogsAndCats/
+small_batch/
+nn/
+weight_tester.py
+identification.py
+
